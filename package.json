@@ -3,7 +3,8 @@
   "dependencies": {
     "react": "16.0.0",
     "react-dom": "16.0.0",
-    "@pusher/chatkit": "0.7.15"
+    "@pusher/chatkit": "0.7.15",
+    "@pusher/chatkit-client": "1.5.0"
   },
   "devDependencies": {
     "webpack": "^2.0",
